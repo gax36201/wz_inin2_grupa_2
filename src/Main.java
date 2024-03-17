@@ -3,6 +3,7 @@ public class Main {
         Film movie = new Film();
         movie.name = "Avatar";
         movie.year = 2018;
+
         movie.info();
     }
 }
