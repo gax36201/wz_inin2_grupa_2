@@ -3,7 +3,7 @@ public class Film {
     int year;
 
     public void info() {
-        System.out.println(name + "" + year);
+        System.out.println(name + " " + year);
     }
 
 }
